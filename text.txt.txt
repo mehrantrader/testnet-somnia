@@ -1,0 +1,11 @@
+# testnet-simnia
+
+A lightweight testing environment for the Simnia blockchain.  
+Use it to run transactions, test smart contracts, and explore features without touching the mainnet.
+
+## Quick Start
+`bash
+git clone https://github.com/mehrantrader/testnet-simnia.git
+cd testnet-simnia
+npm install
+npm start
